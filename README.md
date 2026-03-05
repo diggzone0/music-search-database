@@ -11,4 +11,3 @@ Environment:
 - Windows 11
 - Git
 
-9d1a29d (Add initial .gitignore)
