@@ -44,7 +44,7 @@ python3 musicdb.py
 ## 📁 Project Structure
 ```
 music-database/
-├── musicdb          # Main Python script
+├── musicdb.py          # Main Python script
 ├── .gitignore       # Git ignore rules
 └── README.md        # Project documentation
 ```
