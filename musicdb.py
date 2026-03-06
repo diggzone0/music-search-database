@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""musicdb - interactive music search (class version)"""
+"""musicdb - interactive music search"""
 
 import json
 import os
