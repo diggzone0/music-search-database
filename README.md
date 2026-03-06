@@ -17,7 +17,8 @@ The project is intentionally simple so that the code is easy to read and modify.
 Example search:
 
 ```
-python3 musicdb.py rock
+python3 musicdb.py
+: Drake
 ```
 
 Example output:
